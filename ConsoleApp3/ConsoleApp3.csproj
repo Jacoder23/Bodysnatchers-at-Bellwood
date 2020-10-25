@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Colorful.Console">
+      <HintPath>..\..\..\..\Documents\GitHub\Colorful.Console\src\Colorful.Console\bin\Debug\netstandard2.0\Colorful.Console.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
